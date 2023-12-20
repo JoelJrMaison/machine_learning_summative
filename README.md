@@ -1,6 +1,9 @@
 # machine_learning_summative
 Project on lane line detection
 
+Link to dataset: https://drive.google.com/drive/folders/19UiApI3XJHji92ItjtaGeVXQVHJhid1a?usp=sharing 
+or https://www.kaggle.com/datasets/manideep1108/tusimple
+
 Code was run on VS Code and google colab. 
 
 To run the files locally, the following need to be installed: (preferably using VS code)
