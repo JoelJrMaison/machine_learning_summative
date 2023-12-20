@@ -1,7 +1,7 @@
 # machine_learning_summative
 Project on lane line detection
 
-due to the size of the dataset it could not be added into the github repo
+**N/B: due to the size of the dataset, it could not be added into the github repo and it had to be run locally to be able to be deployed**
 
 Link to dataset: https://drive.google.com/drive/folders/19UiApI3XJHji92ItjtaGeVXQVHJhid1a?usp=sharing 
 or https://www.kaggle.com/datasets/manideep1108/tusimple
